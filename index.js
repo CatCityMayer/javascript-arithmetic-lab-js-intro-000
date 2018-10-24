@@ -22,6 +22,4 @@ function dec(a) {
   return a - 1;
 }
 
-function makeInt(a.toString()) {
-  return makeInt('a', 10);
-}
+
